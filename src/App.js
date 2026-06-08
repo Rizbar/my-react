@@ -8,8 +8,11 @@
 // import TodoDetail from './PR32_4/TodoDetail';
 
 // import EmotionPage from "./PR33_1/EmotionPage"
-import LinariaPage from "./PR33_1/LinariaPage"
+// import LinariaPage from "./PR33_1/LinariaPage"
 // import StyledComponentsPage from "./PR33_1/StyledComponentsPage"
+
+import "bootstrap/dist/css/bootstrap.min.css"
+import LoginForm from "./PR34_2/Login";
 
 // function App() {
 //   return (
@@ -41,8 +44,9 @@ function App() {
   return (
     <div>
       {/* <EmotionPage /> */}
-      <LinariaPage />
+      {/* <LinariaPage /> */}
       {/* <StyledComponentsPage/> */}
+      <LoginForm/>
     </div>
   );
 }
