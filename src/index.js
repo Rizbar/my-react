@@ -4,7 +4,8 @@ import './index.css';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
 // import PR33_2 from './PR33_2/PR33_2';
-import PR35_1 from './PR35_1/PR35_1'
+// import PR35_1 from './PR35_1/PR35_1';
+import PR35_2 from './PR35_2/PR35_2';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -12,7 +13,8 @@ root.render(
   <React.StrictMode>
     {/* <PR33_2/> */}
     {/* <App /> */}
-    <PR35_1 />
+    {/* <PR35_1 /> */}
+    <PR35_2 />
   </React.StrictMode>
 );
 
