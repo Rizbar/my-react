@@ -14,6 +14,7 @@
 // import "bootstrap/dist/css/bootstrap.min.css"
 // import LoginForm from "./PR34_2/Login";
 
+import MyForm from "./PR37/PR37_1/MyFrom";
 
 // function App() {
 //   return (
@@ -48,6 +49,7 @@ function App() {
       {/* <LinariaPage /> */}
       {/* <StyledComponentsPage/> */}
       {/* <LoginForm/> */}
+      <MyForm />
     </div>
   );
 }
